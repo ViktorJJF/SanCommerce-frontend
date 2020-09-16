@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Breadcrumb Section Begin -->
-    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+    <section class="breadcrumb-section set-bg" data-setbg="/img/breadcrumb.jpg">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -54,7 +54,7 @@
                 <div class="blog__sidebar__recent">
                   <a href="#" class="blog__sidebar__recent__item">
                     <div class="blog__sidebar__recent__item__pic">
-                      <img src="img/blog/sidebar/sr-1.jpg" alt />
+                      <img src="/img/blog/sidebar/sr-1.jpg" alt />
                     </div>
                     <div class="blog__sidebar__recent__item__text">
                       <h6>
@@ -66,7 +66,7 @@
                   </a>
                   <a href="#" class="blog__sidebar__recent__item">
                     <div class="blog__sidebar__recent__item__pic">
-                      <img src="img/blog/sidebar/sr-2.jpg" alt />
+                      <img src="/img/blog/sidebar/sr-2.jpg" alt />
                     </div>
                     <div class="blog__sidebar__recent__item__text">
                       <h6>
@@ -78,7 +78,7 @@
                   </a>
                   <a href="#" class="blog__sidebar__recent__item">
                     <div class="blog__sidebar__recent__item__pic">
-                      <img src="img/blog/sidebar/sr-3.jpg" alt />
+                      <img src="/img/blog/sidebar/sr-3.jpg" alt />
                     </div>
                     <div class="blog__sidebar__recent__item__text">
                       <h6>
@@ -108,7 +108,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="blog__item">
                   <div class="blog__item__pic">
-                    <img src="img/blog/blog-2.jpg" alt />
+                    <img src="/img/blog/blog-2.jpg" alt />
                   </div>
                   <div class="blog__item__text">
                     <ul>
@@ -136,7 +136,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="blog__item">
                   <div class="blog__item__pic">
-                    <img src="img/blog/blog-3.jpg" alt />
+                    <img src="/img/blog/blog-3.jpg" alt />
                   </div>
                   <div class="blog__item__text">
                     <ul>
@@ -164,7 +164,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="blog__item">
                   <div class="blog__item__pic">
-                    <img src="img/blog/blog-1.jpg" alt />
+                    <img src="/img/blog/blog-1.jpg" alt />
                   </div>
                   <div class="blog__item__text">
                     <ul>
@@ -192,7 +192,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="blog__item">
                   <div class="blog__item__pic">
-                    <img src="img/blog/blog-4.jpg" alt />
+                    <img src="/img/blog/blog-4.jpg" alt />
                   </div>
                   <div class="blog__item__text">
                     <ul>
@@ -220,7 +220,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="blog__item">
                   <div class="blog__item__pic">
-                    <img src="img/blog/blog-4.jpg" alt />
+                    <img src="/img/blog/blog-4.jpg" alt />
                   </div>
                   <div class="blog__item__text">
                     <ul>
@@ -248,7 +248,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="blog__item">
                   <div class="blog__item__pic">
-                    <img src="img/blog/blog-6.jpg" alt />
+                    <img src="/img/blog/blog-6.jpg" alt />
                   </div>
                   <div class="blog__item__text">
                     <ul>
