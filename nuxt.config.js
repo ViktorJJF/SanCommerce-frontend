@@ -32,13 +32,18 @@ export default {
     link: [
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap',
+        href: 'fonts.googleapis.com/css?family=Open+Sans:400,300,600',
       },
       {
         rel: 'icon',
         type: 'image/x-icon',
         href: '/favicon.ico',
+      },
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href:
+          'maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
       },
       {
         rel: 'stylesheet',
@@ -55,14 +60,6 @@ export default {
       {
         rel: 'stylesheet',
         href: '/css/jquery-ui.min.css',
-      },
-      {
-        rel: 'stylesheet',
-        href: '/css/owl.carousel.min.css',
-      },
-      {
-        rel: 'stylesheet',
-        href: '/css/slicknav.min.css',
       },
       {
         rel: 'stylesheet',
